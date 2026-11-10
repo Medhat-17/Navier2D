@@ -21,6 +21,7 @@ This project is ideal for learning computational fluid dynamics and experimentin
 - Modular code structure for easy extensions  
 
 ---
+![Vortex Plume Evolution](Animated%20Vortex%20Plume%20Evolution%20Grid.gif)
 
 ## Building the Project
 
